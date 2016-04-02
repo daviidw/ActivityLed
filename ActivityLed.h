@@ -1,6 +1,6 @@
 
-#ifndef ActivityLed_h
-#define ActivityLed_h
+#ifndef ActivityLed_H
+#define ActivityLed_H
 
 #include <inttypes.h>
 
